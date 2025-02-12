@@ -49,3 +49,4 @@ echo QUESTION1
 ./questionnaire.sh
 ./questionnaire.sh
 echo --help
+man echo
