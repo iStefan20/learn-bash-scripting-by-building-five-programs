@@ -36,3 +36,4 @@ __vsc_prompt_cmd_original
 bash questionnaire.sh
 which bash
 ./questionnaire.sh
+ls --color=auto -l
