@@ -85,3 +85,4 @@ echo $?
 [[ 5 -ne 10 ]]
 [[ 10 -ne 5 ]]
 bad_command
+ls --color=auto
