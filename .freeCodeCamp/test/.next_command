@@ -72,3 +72,4 @@ __vsc_prompt_cmd_original
 ./countdown.sh 5
 help
 help [[ expression ]]
+help test
