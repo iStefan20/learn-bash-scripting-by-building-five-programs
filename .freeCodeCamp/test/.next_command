@@ -92,3 +92,4 @@ help test
 [[ -a bad-file.txt ]]
 [[ -a bad_file.txt ]]
 [[ -x countdown.sh ]]
+help [[
