@@ -45,3 +45,4 @@ ls --color=auto -l
 echo $QUESTION1
 echo QUESTION1
 ./questionnaire.sh
+./questionnaire.sh
