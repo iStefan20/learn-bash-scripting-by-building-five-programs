@@ -68,3 +68,4 @@ __vsc_prompt_cmd_original
 ./countdown.sh arg2
 ./countdown.sh arg1
 ./countdown.sh arg2
+./countdown.sh 4
