@@ -99,3 +99,4 @@ help [[
 ./countdown.sh -1
 __vsc_prompt_cmd_original
 help
+__vsc_prompt_cmd_original
